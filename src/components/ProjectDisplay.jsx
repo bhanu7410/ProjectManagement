@@ -20,7 +20,6 @@ export default function ProjectDisplay({
 
 	function handleTitleStatus() {
 		setTitleStatus((status) => !status);
-		console.log(titleStatus);
 	}
 
 	function handleTitleChange(e) {
