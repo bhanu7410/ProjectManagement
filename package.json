@@ -11,7 +11,7 @@
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d dist"
 	},
-	"homepage": "https://bhanu7410.github.io/ENRON",
+	"homepage": "https://bhanu7410.github.io/ProjectManagement",
 	"dependencies": {
 		"@tailwindcss/vite": "^4.0.11",
 		"react": "^19.0.0",
